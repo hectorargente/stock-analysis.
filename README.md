@@ -148,11 +148,15 @@ The main advantage of refactoring code is the fact that your mind has to be much
 The code is clearly more organized in the second version. It is easier to understand for anyone willing to ecplore the tasks that you are performing. Morever, the enlaped time of the code is faster as you can see in the following images:
 
 First you will see the enlapsed time of the code without any refactoring
+
 <img width="317" alt="All stock analysis 2017" src="https://user-images.githubusercontent.com/84238543/124406422-f3842c80-dd06-11eb-96a7-530d95a55c3b.png">
+
 <img width="313" alt="All stock analysis 2018" src="https://user-images.githubusercontent.com/84238543/124406478-14e51880-dd07-11eb-9845-b49f302934ca.png">
 
 Finally, you will observe how the refactoring of the analysis generated more efficiency in the code
+
 <img width="312" alt="Refactored 2017" src="https://user-images.githubusercontent.com/84238543/124406485-18789f80-dd07-11eb-8b94-facbf12f86ae.png">
+
 <img width="312" alt="Refactored 2018" src="https://user-images.githubusercontent.com/84238543/124406489-1adaf980-dd07-11eb-8fc9-47193a07a2cc.png">
 
 
